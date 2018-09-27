@@ -1,0 +1,6 @@
+\__pycache__
+*.bat
+inference_image/image.jpg
+model/model.zip
+model/retrained_graph.pb
+model/retrained_labels.txt
